@@ -1,6 +1,6 @@
 # GOSPLAN Productivity Suite
 
-I'm in Grade 11. I vibe coded this. It works on my machine (Fedora).
+I'm in Grade 11. I vibe coded this. It works on my machine (Fedora) (sway and kde) .
 
 ## What is this?
 
@@ -26,7 +26,7 @@ Because if anyone copies this and runs it as a public service, they have to shar
 
 ## Why does this exist?
 
-I have Grade 11 exams and no self-control. This is cheaper than therapy.
+I have Grade 11 exams and no self-control. This is cheaper than therapy. It's vibe coded as in school I do Delphi and as Delphi and python are similar I was forced to vibe code it so I don't confuse the 2.
 
 ## Does it work?
 
