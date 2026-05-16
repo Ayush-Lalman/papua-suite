@@ -1,4 +1,4 @@
-# GOSPLAN Productivity Suite
+# PAPUA Productivity Suite
 
 I'm in Grade 11. I vibe coded this. It works on my machine (Fedora) (sway and kde) .
 
